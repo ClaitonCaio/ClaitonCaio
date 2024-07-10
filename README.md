@@ -1,12 +1,12 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=ClaitonCaio&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=ClaitonCaio&show_icons=true&title_color=1C1C1C&text_color=1C1C1C&icon_color=1C1C1C&bg_color=97FFFF&cache_seconds=2300" alt="ilustração do status do github">
 
 ### Olá, meu nome é Claiton Caio!
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=Claiton Caio Rodrigues &color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+<img src="https://img.shields.io/static/v1?label=Overview&message=Claiton Caio Rodrigues &color=97FFFF&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 <p>Estou cursando Ciência da Computação na Universidade Federal de Jataí<br/> </p>
 
-**Aplicações e dados**
+**Linguagens**
 
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -26,6 +26,9 @@
 ![Visual Code](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Itellij IDEA](https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea&style=for-the-badge)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-
 <br/>
+
+## Onde me encontrar
+
+[![Gmail Badge](https://img.shields.io/badge/-claitoncaio90@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:claitoncaio90@gmail.com)](mailto:claitoncaio90@gmail.com)
+
