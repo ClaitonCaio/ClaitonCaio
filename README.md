@@ -1,8 +1,8 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=ClaitonCaio&show_icons=true&title_color=1C1C1C&text_color=1C1C1C&icon_color=1C1C1C&bg_color=97FFFF&cache_seconds=2300" alt="ilustração do status do github">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=ClaitonCaio&show_icons=true&title_color=FFFAFA&text_color=FFFAFA&icon_color=FFFAFA&bg_color=1C1C1C&cache_seconds=2300" alt="ilustração do status do github">
 
 ### Olá, meu nome é Claiton Caio!
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=Claiton Caio Rodrigues &color=97FFFF&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+<img src="https://img.shields.io/static/v1?label=Overview&message=Claiton Caio Rodrigues &color=1C1C1C&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 <p>Estou cursando Ciência da Computação na Universidade Federal de Jataí<br/> </p>
 
